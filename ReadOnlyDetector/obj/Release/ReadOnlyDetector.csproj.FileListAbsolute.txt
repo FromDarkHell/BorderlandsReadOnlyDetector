@@ -1,0 +1,16 @@
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\bin\Release\ReadOnlyDetector.exe.config
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\bin\Release\ReadOnlyDetector.exe
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\bin\Release\ReadOnlyDetector.pdb
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\bin\Release\Xceed.Wpf.Toolkit.dll
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\MainWindow.g.cs
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\App.g.cs
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector_MarkupCompile.cache
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector_MarkupCompile.lref
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\MainWindow.baml
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.g.resources
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.Properties.Resources.resources
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.csproj.GenerateResource.cache
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.csproj.CoreCompileInputs.cache
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.csproj.CopyComplete
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.exe
+J:\Coding Projecties\ReadOnlyDectetor\ReadOnlyDetector\obj\Release\ReadOnlyDetector.pdb
